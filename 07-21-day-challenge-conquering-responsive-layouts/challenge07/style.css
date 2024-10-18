@@ -1,0 +1,28 @@
+* { 
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    max-width: 80%;
+    max-width: 1128px;
+    margin: 0 auto;
+}
+
+.hero {
+    background-color: #F3EED9;
+    text-align: center;
+}
+
+.hero__text {
+    margin: 0;
+}
+
